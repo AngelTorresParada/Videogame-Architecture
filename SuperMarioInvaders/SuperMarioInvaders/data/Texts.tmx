@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<english>
+<menu>
+	<game text="PLAY"/>
+	<options text="OPTIONS"/>
+	<quit text="QUIT"/>
+</menu>
+<options>
+	<title text="OPTIONS"/>
+	<music text="MUSIC: "/>
+	<m_on text="ON"/>
+	<m_off text="OFF"/>
+	<language text="LANGUAGE: "/>
+	<l_eng text="ENGLISH"/>
+	<l_spa text="SPANISH"/>
+	<return text="RETURN"/>
+</options>
+<levels>
+	<title text="CHOOSE LEVEL"/>
+	<easy text="EASY"/>
+	<normal text="NORMAL"/>
+	<hard text="HARD"/>
+	<return text="RETURN"/>
+</levels>
+<game>
+	<score text="SCORE: "/>
+	<easy text="LEVEL: EASY"/>
+	<normal text="LEVEL: NORMAL"/>
+	<hard text="LEVEL: HARD"/>
+</game>
+<pause>
+	<title text="PAUSE"/>
+	<resume text="RESUME"/>
+	<options text="OPTIONS"/>
+	<quit text="QUIT"/>
+</pause>
+<gameover>
+	<title text="GAME OVER"/>
+	<new text="NEW GAME"/>
+	<quit text="QUIT"/>
+</gameover>
+</english>
+
+<spanish>
+<menu>
+	<game text="JUGAR"/>
+	<options text="OPCIONES"/>
+	<quit text="SALIR"/>
+</menu>
+<options>
+	<title text="OPCIONES"/>
+	<music text="MUSICA: "/>
+	<m_on text="ACTIVADA"/>
+	<m_off text="DESACTIVADA"/>
+	<language text="IDIOMA: "/>
+	<l_eng text="INGLES"/>
+	<l_spa text="CASTELLANO"/>
+	<return text="VOLVER"/>
+</options>
+<levels>
+	<title text="ELEGIR NIVEL"/>
+	<easy text="FACIL"/>
+	<normal text="NORMAL"/>
+	<hard text="DIFICIL"/>
+	<return text="VOLVER"/>
+</levels>
+<game>
+	<score text="PUNTOS: "/>
+	<easy text="NIVEL: FACIL"/>
+	<normal text="NIVEL: NORMAL"/>
+	<hard text="NIVEL: DIFICIL"/>
+</game>
+<pause>
+	<title text="PAUSA"/>
+	<resume text="REANUDAR"/>
+	<options text="OPCIONES"/>
+	<quit text="SALIR"/>
+</pause>
+<gameover>
+	<title text="FIN DEL JUEGO"/>
+	<new text="NUEVA PARTIDA"/>
+	<quit text="SALIR"/>
+</gameover>
+</spanish>

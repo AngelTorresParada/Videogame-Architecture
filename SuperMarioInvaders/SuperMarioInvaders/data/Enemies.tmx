@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<easy>
+	<speed speed="1"/>
+	<enemymap>
+		<enemy x="50" y="400"/>
+		<enemy x="100" y="400"/>
+		<enemy x="150" y="400"/>
+		<enemy x="200" y="400"/>
+		<enemy x="250" y="400"/>
+		<enemy x="300" y="400"/>
+		<enemy x="350" y="400"/>
+		<enemy x="400" y="400"/>
+		<enemy x="50" y="350"/>
+		<enemy x="100" y="350"/>
+		<enemy x="150" y="350"/>
+		<enemy x="200" y="350"/>
+		<enemy x="250" y="350"/>
+		<enemy x="300" y="350"/>
+		<enemy x="350" y="350"/>
+		<enemy x="400" y="350"/>
+		<enemy x="50" y="300"/>
+		<enemy x="100" y="300"/>
+		<enemy x="150" y="300"/>
+		<enemy x="200" y="300"/>
+		<enemy x="250" y="300"/>
+		<enemy x="300" y="300"/>
+		<enemy x="350" y="300"/>
+		<enemy x="400" y="300"/>
+		<enemy x="50" y="250"/>
+		<enemy x="100" y="250"/>
+		<enemy x="150" y="250"/>
+		<enemy x="200" y="250"/>
+		<enemy x="250" y="250"/>
+		<enemy x="300" y="250"/>
+		<enemy x="350" y="250"/>
+		<enemy x="400" y="250"/>
+	</enemymap>
+</easy>
+<normal>
+	<speed speed="2"/>
+	<enemymap>
+		<enemy x="50" y="400"/>
+		<enemy x="100" y="400"/>
+		<enemy x="150" y="400"/>
+		<enemy x="200" y="400"/>
+		<enemy x="250" y="400"/>
+		<enemy x="300" y="400"/>
+		<enemy x="350" y="400"/>
+		<enemy x="400" y="400"/>
+		<enemy x="450" y="400"/>
+		<enemy x="500" y="400"/>
+		<enemy x="50" y="350"/>
+		<enemy x="100" y="350"/>
+		<enemy x="150" y="350"/>
+		<enemy x="200" y="350"/>
+		<enemy x="250" y="350"/>
+		<enemy x="300" y="350"/>
+		<enemy x="350" y="350"/>
+		<enemy x="400" y="350"/>
+		<enemy x="450" y="350"/>
+		<enemy x="500" y="350"/>
+		<enemy x="50" y="300"/>
+		<enemy x="100" y="300"/>
+		<enemy x="150" y="300"/>
+		<enemy x="200" y="300"/>
+		<enemy x="250" y="300"/>
+		<enemy x="300" y="300"/>
+		<enemy x="350" y="300"/>
+		<enemy x="400" y="300"/>
+		<enemy x="450" y="300"/>
+		<enemy x="500" y="300"/>
+		<enemy x="50" y="250"/>
+		<enemy x="100" y="250"/>
+		<enemy x="150" y="250"/>
+		<enemy x="200" y="250"/>
+		<enemy x="250" y="250"/>
+		<enemy x="300" y="250"/>
+		<enemy x="350" y="250"/>
+		<enemy x="400" y="250"/>
+		<enemy x="450" y="250"/>
+		<enemy x="500" y="250"/>
+	</enemymap>
+</normal>
+<hard>
+	<speed speed="2"/>
+	<enemymap>
+		<enemy x="50" y="400"/>
+		<enemy x="100" y="400"/>
+		<enemy x="150" y="400"/>
+		<enemy x="200" y="400"/>
+		<enemy x="250" y="400"/>
+		<enemy x="300" y="400"/>
+		<enemy x="350" y="400"/>
+		<enemy x="400" y="400"/>
+		<enemy x="450" y="400"/>
+		<enemy x="500" y="400"/>
+		<enemy x="50" y="350"/>
+		<enemy x="100" y="350"/>
+		<enemy x="150" y="350"/>
+		<enemy x="200" y="350"/>
+		<enemy x="250" y="350"/>
+		<enemy x="300" y="350"/>
+		<enemy x="350" y="350"/>
+		<enemy x="400" y="350"/>
+		<enemy x="450" y="350"/>
+		<enemy x="500" y="350"/>
+		<enemy x="50" y="300"/>
+		<enemy x="100" y="300"/>
+		<enemy x="150" y="300"/>
+		<enemy x="200" y="300"/>
+		<enemy x="250" y="300"/>
+		<enemy x="300" y="300"/>
+		<enemy x="350" y="300"/>
+		<enemy x="400" y="300"/>
+		<enemy x="450" y="300"/>
+		<enemy x="500" y="300"/>
+		<enemy x="50" y="250"/>
+		<enemy x="100" y="250"/>
+		<enemy x="150" y="250"/>
+		<enemy x="200" y="250"/>
+		<enemy x="250" y="250"/>
+		<enemy x="300" y="250"/>
+		<enemy x="350" y="250"/>
+		<enemy x="400" y="250"/>
+		<enemy x="450" y="250"/>
+		<enemy x="500" y="250"/>
+		<enemy x="50" y="200"/>
+		<enemy x="100" y="200"/>
+		<enemy x="150" y="200"/>
+		<enemy x="200" y="200"/>
+		<enemy x="250" y="200"/>
+		<enemy x="300" y="200"/>
+		<enemy x="350" y="200"/>
+		<enemy x="400" y="200"/>
+		<enemy x="450" y="200"/>
+		<enemy x="500" y="200"/>
+	</enemymap>
+</hard>
